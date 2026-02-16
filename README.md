@@ -10,11 +10,11 @@ The goal is to explore how modern transformer-based models outperform classical 
 
 Online platforms often struggle to identify self-harm content early. This project aims to:
 
-- Preprocess and clean raw text data
-- Perform exploratory data analysis (EDA)
-- Train and evaluate multiple NLP models
-- Compare traditional ML models with transformer-based models
-- Analyze performance differences and results
+- Preprocess and clean raw text data.
+- Perform exploratory data analysis (EDA).
+- Train and evaluate multiple NLP models.
+- Compare traditional ML models with transformer-based models.
+- Analyze performance differences and results.
 
 ---
 
