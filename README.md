@@ -21,7 +21,7 @@ Online platforms often struggle to identify self-harm content early. This projec
 ## 🧠 Models Used
 
 ### 1. Logistic Regression
-- TF-IDF based feature extraction
+- Averaged Word2Vec/GloVe embeddings
 - Baseline classical NLP model
 - Faster training, lower computational cost
 
